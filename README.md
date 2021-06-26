@@ -7,7 +7,7 @@ A website developed using javaScript which visualize the different sorting algor
 5. Quick Sort.
 
 # Link
-Checkout the website here(https://cezainmajeed.github.io/Algorithm-Visualizer/)
+https://cezainmajeed.github.io/Algorithm-Visualizer/
 
 
 # Built with 
