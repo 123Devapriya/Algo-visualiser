@@ -7,14 +7,13 @@ A website developed using javaScript which visualize the different sorting algor
 5. Quick Sort.
 
 # Link
-(https://cezainmajeed.github.io/Algorithm-Visualizer/)
+Checkout the website here(https://cezainmajeed.github.io/Algorithm-Visualizer/)
 
 
 # Built with 
 1. HTML
 2. Javascript
 3. CSS
-4. Bootstrap
 
 # Contributing
 Any kind of contributions are welcome.
