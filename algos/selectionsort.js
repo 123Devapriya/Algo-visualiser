@@ -1,7 +1,7 @@
 async function selection() {
   const array = document.querySelectorAll(".bar");
   const n = array.length;
-  for (let i = 0; i < n - 1; i++) {
+  for (let i = 0; i < n - 1; i++){
     let minInd = i;
     array[i].style.background = '#39A2DB';
     for (let j = i + 1; j < n; j++) {
